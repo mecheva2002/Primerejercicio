@@ -7,5 +7,6 @@ public class prueba2 {
 System.out.println("holaasdsxfghda");
 	
 	System.out.println("10/01/2022");
+		System.out.println("ediccion en remoto");
 
 }}
